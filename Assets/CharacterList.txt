@@ -1,0 +1,20 @@
+0	비둘기	N	흔한	5432	None	0
+1	강아지	N	흔한	5123	None	0
+2	박쥐	N	흔한	5611	None	0
+3	여우	N	흔한	5398	None	0
+4	세균	N	흔한	5211	None	0
+5	고라니	N	흔한	5721	None	0
+6	아이네	R	이세돌	8765	None	0
+7	징버거	R	이세돌	7911	None	0
+8	릴파	R	이세돌	8888	None	0
+9	주르르	R	이세돌	7511	None	0
+10	고세구	R	이세돌	8314	None	0
+11	비챤	R	이세돌	8133	None	0
+12	아이네	SR	Re:Wind	12345	None	0
+13	징버거	SR	Re:Wind	11111	None	0
+14	릴파	SR	Re:Wind	13485	None	0
+15	주르르	SR	Re:Wind	12546	None	0
+16	고세구	SR	Re:Wind	10955	None	0
+17	비챤	SR	Re:Wind	13984	None	0
+18	주르르	SSR	황혼의 여우	22610	None	0
+19	징버거	SSR	여명의 여우	22108	None	0
